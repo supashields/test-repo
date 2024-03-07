@@ -1,2 +1,2 @@
 # test-repo
-Test connection with Git Bash
+Test connection with Jenkins
